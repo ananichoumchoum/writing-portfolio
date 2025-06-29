@@ -44,7 +44,7 @@ A full-stack application designed to raise cybersecurity awareness and empower u
 
 ### Step 1: Clone the Repository
    ```bash
-   git clone https://github.com/your-username/tech-awareness.git
+   git clone https://github.com/ananichoumchoum/tech-awareness.git
    cd tech-awareness
 ```
 
