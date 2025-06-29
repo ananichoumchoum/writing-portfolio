@@ -1,5 +1,6 @@
 # Code Secure
-
+![Documentation Version](https://img.shields.io/badge/docs-v1.0.0-blue)
+![Page Updated](https://img.shields.io/badge/last%20updated-June%202025-brightgreen)
 ## Overview
 
 Code Secure is a private web-based platform designed to simulate secure coding challenges through structured Capture The Flag (CTF) exercises. Built with React, it allows users to interact with purpose-built code scenarios that expose common implementation flaws.
